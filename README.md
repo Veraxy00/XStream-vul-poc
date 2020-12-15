@@ -1,6 +1,7 @@
 # XStream相关漏洞
 
 XStream今年出的漏洞有 XStream远程代码执行漏洞（CVE-2020-26217）、XStream服务端请求伪造漏洞（CVE-2020-26258）、XStream任意文件删除漏洞（CVE-2020-26259），这里对这些漏洞POC及分析复现环境进行整理。
+
 POC均为以CVE编号命令的xml文件，在Demo.java中引用即可触发。
 
 ## CVE-2020-26217
