@@ -20,9 +20,6 @@ XStream 1.4.14及以前的所有版本存在任意文件删除漏洞，使用 XS
 
 ## 参考
 https://x-stream.github.io/CVE-2020-26217.html
-
 https://x-stream.github.io/CVE-2020-26258.html
-
 https://x-stream.github.io/CVE-2020-26259.html
-
 https://x-stream.github.io/security.html#framework
